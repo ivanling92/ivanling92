@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ivanling92
+- 👀 I’m interested in fun projects!
+- 🌱 I’m currently learning Javascript, Python, and Web development in general.
+- 💞️ I’m looking to collaborate on fun projects! Send me a message if you have any new ideas!
+- 📫 ivanling92@gmail.com
